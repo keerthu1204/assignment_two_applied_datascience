@@ -7,6 +7,11 @@
 # !pip install seaborn
 # !pip install pandas
 
+
+# REPO LINK
+# https://github.com/keerthu1204/assignment_two_applied_datascience
+
+
 # importing the libraries
 import pandas as pd
 import numpy as np
